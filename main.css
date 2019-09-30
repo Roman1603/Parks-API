@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.hidden {
+  display: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+#js-form {
+  text-align: center;
+}
