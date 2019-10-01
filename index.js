@@ -54,7 +54,7 @@ function getParkInfo(query, maxResults = 10) {
     });
 }
 
-//Event Listener
+//Event Listener for Submit
 function watchForm() {
   $("form").submit(event => {
     event.preventDefault();
